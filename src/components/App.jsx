@@ -9,7 +9,7 @@ const App = () => {
           <div className="imageProduct">
             <img
               src="/images/image-product-desktop.jpg"
-              alt="image-product"
+              alt="productimg"
             />
           </div>
           <div className="contentProduct">
