@@ -8,7 +8,7 @@ const App = () => {
         <div className="boxContainer">
           <div className="imageProduct">
             <img
-              src="./public/images/image-product-desktop.jpg"
+              src="/images/image-product-desktop.jpg"
               alt="image-product"
             />
           </div>
