@@ -8,7 +8,7 @@ const App = () => {
         <div className="boxContainer">
           <div className="imageProduct">
             <img
-              src="public/images/image-product-desktop.jpg"
+              src="./public/images/image-product-desktop.jpg"
               alt="image-product"
             />
           </div>
@@ -24,7 +24,7 @@ const App = () => {
               <div className="oldPrice">$169.99</div>
             </div>
             <button>
-              <img src="public/images/icon-cart.svg" alt="cartimg" />
+              <img src="./public/images/icon-cart.svg" alt="cartimg" />
               Add to Cart
             </button>
           </div>
